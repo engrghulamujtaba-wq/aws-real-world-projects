@@ -5,9 +5,9 @@ vi dbinfo.inc
 ```bash
 <?php
 
-define('DB_SERVER', 'prod-database.cee2jhm51ydc.us-west-1.rds.amazonaws.com');
+define('DB_SERVER', 'database-1.cro04uway71v.me-south-1.rds.amazonaws.com');
 define('DB_USERNAME', 'admin');
-define('DB_PASSWORD', 'admin2022');
+define('DB_PASSWORD', '15900*MandelaC');
 define('DB_DATABASE', 'phpappdatabase');
 
 ?>
